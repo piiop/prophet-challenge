@@ -30,7 +30,7 @@ Calculate the total search traffic for the month, and then compare the value to 
 
 Did the Google search traffic increase during the month that MercadoLibre released its financial results? Write your answer in the space provided in the starter file.
 
-###Step 2: Mine the Search Traffic Data for Seasonality
+### Step 2: Mine the Search Traffic Data for Seasonality
 Marketing realizes that they can use the hourly search data, too. If they can track and predict interest in the company and its platform for any time of day, they can focus their marketing efforts around the times that have the most traffic. This will get a greater return on investment (ROI) from their marketing budget.
 
 To that end, you want to mine the search traffic data for predictable seasonal patterns of interest in the company. To do so, complete the following steps:
